@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Diptesh Deore</h1>
-<h3 align="center">A passionate Web Developer & Problem Solver from India </h3>
+<h3 align="center">A Passionate Web Developer & Problem Solver from India </h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Nextjs and Microservices<br>👯 I’m looking to collaborate on Backend Projects<br>🌱 I’m currently learning Docker<br>💬 Ask me anything related to Javascript <br>
