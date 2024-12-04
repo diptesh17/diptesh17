@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Nextjs and Microservices<br>👯 I’m looking to collaborate on Backend Projects<br>💬 Ask me anything related to Javascript <br>
+✍️ I'm currently Learning Golang<br>🔭 I’m currently Working on Nextjs and Microservices<br>👯 I’m looking to Collaborate on Full Stack Projects<br>💬 Ask me anything related to Javascript <br>
 
 
 ## 🌐 Socials:
